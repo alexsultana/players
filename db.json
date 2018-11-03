@@ -1,0 +1,12 @@
+{ 
+
+       players =[
+      {"id":1, "name": "Ramos", "age":33, "team" :"Real Madrid","position":"defender"},
+      {"id": 2, "name": "Ronaldo", "age": 31, "team": "Juventus","position":"striker"},
+      {"id": 3, "name": "Messi" , "age": 31, "team": "Barcelona","position":"striker"},
+      {"id": 4, "name": "Tanase", "age": 99, "team": "Word XI","position":"mildfielder"}
+
+    ]
+  
+
+}
